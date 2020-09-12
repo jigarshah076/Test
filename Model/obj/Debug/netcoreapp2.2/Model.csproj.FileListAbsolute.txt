@@ -1,0 +1,9 @@
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\bin\Debug\netcoreapp2.2\Model.deps.json
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\bin\Debug\netcoreapp2.2\Model.dll
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\bin\Debug\netcoreapp2.2\Model.pdb
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\obj\Debug\netcoreapp2.2\Model.csproj.CoreCompileInputs.cache
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfoInputs.cache
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfo.cs
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\obj\Debug\netcoreapp2.2\Model.dll
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\obj\Debug\netcoreapp2.2\Model.pdb
+C:\JIGAR SHAH\Back Up Zone\Projects\Coding Test\CodingTest\Model\obj\Debug\netcoreapp2.2\Model.csprojAssemblyReference.cache
